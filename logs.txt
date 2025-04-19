@@ -1,0 +1,15 @@
+2025-04-19T03:09:39.146Z, Server started on http://localhost:3000
+2025-04-19T03:09:39.146Z, 404 Not Found: GET /
+2025-04-19T03:09:39.146Z, Fetched all todos
+2025-04-19T03:09:39.146Z, Fetch todo with id=2
+2025-04-19T03:09:39.146Z, Fetch todo with id=1
+2025-04-19T03:09:39.146Z, Todo id=3 not found
+2025-04-19T03:09:39.146Z, Added new todo with id=3
+2025-04-19T03:09:39.146Z, Fetch todo with id=3
+2025-04-19T03:09:39.146Z, Fetch todo with id=3
+2025-04-19T03:09:39.146Z, Fetch todo with id=3
+2025-04-19T03:09:39.146Z, Fetch todo with id=3
+2025-04-19T03:09:39.146Z, Attempted to add duplicate todo id=3
+2025-04-19T03:09:39.146Z, Updated todo id=3
+2025-04-19T03:09:39.146Z, Deleted todo id=2
+2025-04-19T03:09:39.146Z, Failed DELETE: Todo id=2 not found
